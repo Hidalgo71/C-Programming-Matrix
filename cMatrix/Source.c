@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include<math.h>;
 int main()
 {
 	int matrixA [3] [2] = { 1,0,1,1,1,0 };
